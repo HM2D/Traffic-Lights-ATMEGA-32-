@@ -1,0 +1,1 @@
+Ba tanzim kardane timer/counter 1 ba ferequence 31.250 Hz va shomaresh ta 31249 mitavan 1 sanie ra tolid kard.

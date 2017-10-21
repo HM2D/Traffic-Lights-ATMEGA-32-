@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:48AC844F
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr\inc\string.h"
+NODE:V LEVEL:0 LINE:31 "secondsLeft -> R4,R5"
+NODE:V LEVEL:0 LINE:32 "secondToCount -> R6,R7"
+NODE:V LEVEL:0 LINE:33 "lcdoutput -> RAM:????"
+NODE:F LEVEL:0 LINE:35 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:43 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:50 "main(void)"
